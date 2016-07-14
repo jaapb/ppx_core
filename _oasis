@@ -17,7 +17,7 @@ BuildTools:            ocamlbuild
 BetaFeatures:          section_object
 AlphaFeatures:         ocamlbuild_more_args
 XOCamlbuildPluginTags: package(js-build-tools.ocamlbuild_goodies)
-FilesAB:               META.ab
+FilesAB:               src/META.ab
 Description:
   Part of the Jane Street's PPX rewriters collection.
 
